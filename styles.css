@@ -1,9 +1,18 @@
+* {
+    transition: 0.1s;
+}
+
 h2 {
     font-size: 70px;
 }
 
 .text-primary {
     color: #C39253 !important;
+}
+
+.hover-primary:hover {
+    color: #C39253 !important;
+    font-weight: bolder;
 }
 
 .cls-change {
